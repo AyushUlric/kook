@@ -49,9 +49,9 @@ const Navbar = () => {
       </div>
       <div className="links mr-[4rem] hidden md:block font-semibold">
         <Link to="/">Home</Link>
-        <Link to="/">track-suits</Link>
-        <Link to="/">top wear</Link>
-        <Link to="/">bottom wear</Link>
+        <Link to="/">Track Suits</Link>
+        <Link to="/">Top Wear</Link>
+        <Link to="/">Bottom Wear</Link>
         <Link to="/profile">About Us</Link>
       </div>
     </nav>

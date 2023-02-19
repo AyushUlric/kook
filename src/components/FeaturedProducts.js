@@ -41,7 +41,7 @@ const FeaturedProducts = () => {
                         KOOK K-4956
                     </p>
                     <p className="text-xs text-center text-green-700">
-                        trending
+                        top wear
                     </p>
                 </div>
                 <div>
@@ -50,7 +50,7 @@ const FeaturedProducts = () => {
                         KOOK K-915
                     </p>
                     <p className="text-xs text-center text-green-700">
-                        trending
+                        top wear
                     </p>
                 </div>
                 <div>
@@ -59,7 +59,7 @@ const FeaturedProducts = () => {
                         KOOK K-285
                     </p>
                     <p className="text-xs text-center text-green-700">
-                        trending
+                        top wear
                     </p>
                 </div>
                 <div>
@@ -68,7 +68,7 @@ const FeaturedProducts = () => {
                         KOOK K-131
                     </p>
                     <p className="text-xs text-center text-green-700">
-                        trending
+                        track suit
                     </p>
                 </div>
                 <div>
@@ -77,7 +77,7 @@ const FeaturedProducts = () => {
                         KOOK K-129
                     </p>
                     <p className="text-xs text-center text-green-700">
-                        trending
+                        track suit
                     </p>
                 </div>
                 <div>
@@ -86,7 +86,7 @@ const FeaturedProducts = () => {
                         KOOK K-125
                     </p>
                     <p className="text-xs text-center text-green-700">
-                        trending
+                        track suit
                     </p>
                 </div>
             </Carousel>
