@@ -1,9 +1,8 @@
 import Navbar from "./Navbar";
 import Home from "./Home";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Create from "./Create";
-import BlogDetails from "./BlogDetails";
 import Footer from "./components/Footer"
+import CompanyProfile from "./CompanyProfile";
 
 function App() {
   return (
@@ -13,8 +12,7 @@ function App() {
         <div className="content">
           <Routes>
             <Route exact path="/" element={<Home />}></Route>
-            <Route exact path="/create" element={<Create />}></Route>
-            <Route exact path="/blogs/:id" element={<BlogDetails />}></Route>
+            <Route exact path="/profile" element={<CompanyProfile />}></Route>
           </Routes>
         </div>
         <Footer></Footer>

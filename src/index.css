@@ -70,3 +70,11 @@
 .home .carousel div img {
   width: 100%;
 }
+
+.featured-carousel div {
+  border-radius: 25px;
+  border: 2px solid #00000064;
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+}

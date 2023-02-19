@@ -1,6 +1,7 @@
 // import { useState, useEffect } from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
+import FeaturedProducts from "./components/FeaturedProducts";
 
 const Home = () => {
   const responsive = {
@@ -49,27 +50,7 @@ const Home = () => {
           <img src="./assets/feature-3.png" />
         </div>
       </Carousel>
-      <div className="company-profile w-full bg-black p-10 mt-10">
-        <ul className="flex justify-center w-full p-9 items-center">
-          <li>
-            <img src="./logo.jpg" width={350} alt="" />
-          </li>
-          <li>
-            <ul className="ml-20 flex justify-start items-start flex-col">
-              <li className="text-3xl">
-                <p className="text-white">Company</p>
-                <p className="text-white">Profile</p>
-              </li>
-              <li className="text-sm mt-5">
-                <p className="text-white">Established in 2015, Kook sportswear is a men's garment brand under,</p>
-                <p className="text-white">`jitesh fabrics`, manufacturer of sports wear and clothing house </p>
-                <p className="text-white">We believe in manufacturing quality products with every piece being inspected</p>
-                <p className="text-white">by hand to perfection.</p>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </div>
+      <FeaturedProducts />
       <div className="our-goal w-full bg-gray-900 p-20 mt-10">
         <ul className="flex justify-center w-full p-10 items-center ">
             <li className="mt-5 text-center">
