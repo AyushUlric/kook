@@ -40,8 +40,8 @@ const FeaturedProducts = () => {
                     <p className="text-m text-center">
                         KOOK K-4956
                     </p>
-                    <p className="text-xs text-center">
-                        ₹1249
+                    <p className="text-xs text-center text-green-700">
+                        trending
                     </p>
                 </div>
                 <div>
@@ -49,8 +49,8 @@ const FeaturedProducts = () => {
                     <p className="text-m text-center">
                         KOOK K-915
                     </p>
-                    <p className="text-xs text-center">
-                        ₹1399
+                    <p className="text-xs text-center text-green-700">
+                        trending
                     </p>
                 </div>
                 <div>
@@ -58,8 +58,8 @@ const FeaturedProducts = () => {
                     <p className="text-m text-center">
                         KOOK K-285
                     </p>
-                    <p className="text-xs text-center">
-                        ₹1399
+                    <p className="text-xs text-center text-green-700">
+                        trending
                     </p>
                 </div>
                 <div>
@@ -67,8 +67,8 @@ const FeaturedProducts = () => {
                     <p className="text-m text-center">
                         KOOK K-131
                     </p>
-                    <p className="text-xs text-center">
-                        ₹1999
+                    <p className="text-xs text-center text-green-700">
+                        trending
                     </p>
                 </div>
                 <div>
@@ -76,8 +76,8 @@ const FeaturedProducts = () => {
                     <p className="text-m text-center">
                         KOOK K-129
                     </p>
-                    <p className="text-xs text-center">
-                        ₹2199
+                    <p className="text-xs text-center text-green-700">
+                        trending
                     </p>
                 </div>
                 <div>
@@ -85,8 +85,8 @@ const FeaturedProducts = () => {
                     <p className="text-m text-center">
                         KOOK K-125
                     </p>
-                    <p className="text-xs text-center">
-                        ₹2399
+                    <p className="text-xs text-center text-green-700">
+                        trending
                     </p>
                 </div>
             </Carousel>
